@@ -8,10 +8,11 @@ collections:
   extras:
     output: true
 
-line1Title: CSE1500
-line2Title: Web Technology
-line3Title: Node.js, JavaScript, CSS, HTTP, HTML
-tabTitle: CSE1500 TU Delft course materials.
+line1Title: INF03NA & INF03NA
+#line2Title: Teoria da Computação e Introdução a Teoria de Autômatos
+line2Title: Teoria da Computação
+line3Title: 2022/1
+tabTitle: Teoria da Computação.
 warning: The materials are currently being updated for the next course edition.
 smallNavbar: true
 timeSpent: true
