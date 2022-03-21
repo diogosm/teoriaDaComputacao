@@ -19,7 +19,7 @@ timeSpent: true
 idleTimeout: 60
 
 footerImage: ../images/tudelft-ewi-dark-footer.svg #the light-footer goes well with a light theme, the dark footer with a dark theme
-headerImage: assets/images/fucapi.png.png
+headerImage: ../images/fucapi.png.png
 cssTheme: themes/light-grey.css
 cssCodeTheme: themes/code/dracula.css
 
