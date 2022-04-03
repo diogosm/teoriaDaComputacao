@@ -18,9 +18,9 @@ smallNavbar: true
 timeSpent: true
 idleTimeout: 60
 
-footerImage: ../images/tudelft-ewi-dark-footer.svg #the light-footer goes well with a light theme, the dark footer with a dark theme
+#footerImage: ../images/tudelft-ewi-dark-footer.svg #the light-footer goes well with a light theme, the dark footer with a dark theme
 headerImage: ../images/fucapi.jpg
-cssTheme: themes/light-green.css
+cssTheme: themes/light-grey.css
 cssCodeTheme: themes/code/perldoc.css
 
 plugins:
